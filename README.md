@@ -8,7 +8,7 @@ Software Requirements :
 3. Any text editor
 
 Additional Instructions :
-1. Download the image named "Modified_cover.png"
+1. Download the image named "modified_cover.png"
 2. Copy the path where ever you saved the image.
 3. Add the path to "ImageTk.open(image_path)"
 4. Modify the time duration of splash screen according to your need by changing the time in "splash_label.after(time_duration)"
